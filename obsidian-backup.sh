@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env -S PATH=/usr/local/bin:${PATH} bash
 
 # this script will back up your Obsidian vault (or any folder really)
 # - backups use zstd for high compression, and archives are timestamped 
