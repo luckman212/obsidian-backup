@@ -1,6 +1,6 @@
 # obsidian-backup
 
-_see related thread at https://forum.obsidian.md/t/backup-obsidian-for-beginners/12267/32_
+_see related thread at https://forum.obsidian.md/t/backup-obsidian-for-beginners/12267/33_
 
 ## Summary
 
